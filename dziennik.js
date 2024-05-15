@@ -1,4 +1,4 @@
-var sygnatura = 2;
+var sygnatura = 3;
 
 var zadMatUla = ["Darek mieszkał z rodzicami, oraz swoimi dwoma braćmi i trzema siostrami. Postanowił kupić kilogram chleba razowego i obdzielić każdego (także siebie) po równo. Cena 200 g chleba razowego była tańsza o 1 zł i 37 gr od kostki masła kosztującej 4 zł 1 gr. Darek zawsze kupował świeży chleb, który dowoził pan Kazik o g. 11<sup>20</sup>. Zauważył, że do tego czasu ma jeszcze 2 godziny i 35 minut, gdyż dopiero kwadrans temu jadł śniadanie. Jednak poszedł już przygotować sobie monety dwuzłotowe do tego zakupu, które układał na specjalnej półce wzdłuż ściany co 3,5 dm. Ile gram chleba razowego zje każda osoba z rodziny, o której godzinie Darek jadł śniadanie i o ile krótszy będzie rządek dwuzłotówek na półce Darka. Czy wystarczy mu dziesięciogroszówek, które dostanie jako reszty od pani Zosi ze sklepu, by je poumieszczać w miejsce tamtych?","Krzyś postanowił wypełnić całe pudełeczko, kwadratowymi znaczkami pocztowymi o polu jednego centymetra kwadratowego każdy. Pudełeczko było prostokątem o wymiarach 6 cm na 1,2 dm. W sklepie sprzedawano komplety po 9 znaczków za jedyne 2 zł i 44 gr, a w dodatku, przy zakupie czterech kompletów naraz, dawano zniżkę 26 gr. Krzyś postanowił kupić wszystkie od razu i zapłacił w sklepie jednym banknotem z podobizną Bolesława Chrobrego. Resztę otrzymał w monetach 20-groszowych. Zauważył, że dostał tyle monet, ile kwadransów upłynęło od skończenia przez niego obiadu, a była godzina 15<sup>05</sup>. O której godzinie Krzyś skończył jeść obiad?"];
 var zadMatBasia = ['2 lutego Kasia spytała swojego starszego brata, która godzina. "Jest pierwsza po południu" - odpowiedział brat."Ojej, a poprzednio, gdy cię pytałam, mówiłeś, że jest dokładnie południe!". "Tak - powiedział brat - ale poprzednio pytałaś mnie 29 stycznia". Ile godzin minęło między tymi dwoma pytaniami Kasi i ile minut brakuje do spotkania z koleżanką, które zostało zaplanowane na g. 14<sup>40</sup> tego dnia (2 lutego)?',"Marcin jeszcze nie znał się na zegarku, ale usłyszał od rodziców, że autobusy linii 150 odjeżdzają co kwadrans z przystanku autobusowego, który widział ze swojego okna. Zaciekawiony obserwował dłuższy czas przystanek i zauważył ciekawą rzecz. Otóż autobusów 120, które też co równą odległość odjeżdżały z przystanku, odjechało pięć w czasie, gdy autobusy 150 zdążyły odjechać tylko cztery. Jak często jeździły autobusy linii 120?"];
@@ -70,10 +70,10 @@ function pisz()
 }
 function wyswietl()
 {
-	$("#dzien").html('');
+	$(".dzien").html('');
 	$("#Ula").html('');
 	$("#Basia").html('');
-	$("#dzien").append(dzien[sygnatura]);
+	$(".dzien").append(dzien[sygnatura]);
 	for (let i = 1; i < 19; i ++)
 	{
 		if (i < 15)
@@ -134,5 +134,5 @@ function wyswietl()
 			$("#Ula").append('<br/>');
 		}
 	}
-	$("#obowiazkowe").html("INSTRUMENTY<br/>busuu i FISZKI");
+	$(".obowiazkowe").html("INSTRUMENTY<br/>busuu i FISZKI");
 }

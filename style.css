@@ -9,7 +9,7 @@ body
 	display: inline-block;
 	overflow-wrap: break-word;
 }
-#dzien
+.dzien
 {
 	width: 100%;
 	text-align: center;
@@ -34,7 +34,7 @@ body
 {
 	font-size: 20px;
 }
-#obowiazkowe
+.obowiazkowe
 {
 	width: 100%;
 	word-spacing: 10px;
