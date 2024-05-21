@@ -8,8 +8,8 @@ var histBookV = ["Życie pierwszych ludzi s.8-11","W jaki sposób oblicza się c
 var religiaV = ["Czym różni się prawdziwe szczęście od chwilowej przyjemności?", "Co daje Ci szczęście?", "Jak możesz pomagać w grupach/wspólnotach/rodzinie, aby inni byli szczęśliwi?", "Podaj przykłady z życia codziennego, w których ważną rolę odgrywa wiara, nadzieja i miłość.", "Z czego się składa Biblia?", "Jakie Księgi Biblijne umiesz wymienić, jakie rodzaje ksiąg znajdują się w Nowy Testamencie?", "Jakie gatunki literackie możesz znaleźć w Biblii?", "Jak czytać i interpretować Pismo Święte? Czy można brać wszystko dosłownie?", "Biblia a nauka - czy jest tu jakiś konflikt, czy da się te dwie nauki pogodzić?", "Jaki jest związek Pisma Świętego a Tradycją? Czym jest Tradycja (pisana przez wielkie T)?", "Czytasz indywidualnie Pismo Święte?", "Historie biblijne: Kain i Abel, Noe, wieża Babel.", "Wyjaśnij pojęcia: anioł, błogosławieństwo, Ewangelia, protoewangelia, wolna wola.", "Podaj przykłady postaci biblijnych w kontekście odróżniania dobra od zła", "Jakie są konsekwencje grzechu?", "Co to jest Naród Wybrany? Co oznacza słowo przymierze.", "Opowiedz historię Abrahama, Izaaka, Jakuba, Józefa Egipskiego, niewoli egipskiej, Paschy i wyjścia z Egiptu, wędrówki Narodu Wybranego, otrzymania Dekalogu. Jak Bóg troszczy się o swój lud? Jaka jest postawa ludzi wobec Boga?", "Kim był Jonasz?", "Jak Bóg objawia się ludziom? W którym momencie historii i jak objawił się w pełni?", "Jak Jezus okazuje nam miłość poprzez mękę, śmierć i zmartwychwstanie?", "Czym jest Ewangelia? Jakich znasz Ewangelistów? Czy poszczególne wersje ewangelii są takie same czy różnią się od siebie?", "Czym jest przypowieść? Jakie znasz przypowieści o Królestwie Niebieskim?", "Czym jest Kościół (pisany przez wielkie K), a czym kościół (przez małe k)?", "Wymień biblijne obrazy Kościoła - do czego możemy porównać Kościół, np. do owczarni, gdzie Jezus jest Dobrym Pasterzem.", "Jakie jest znaczenie Chrztu?", "Jak wyglądał pierwotny Kościół?", "Opowiedz o początkach Kościoła w Polsce.", "Czym jest życie konsekrowane? Czym są misje, kim są misjonarze?", "Kim są świeccy i jaka jest ich rola w Kościele?", "Jak Ty możesz udzielać się w Kościele?"];
 var religiaIII = ["Czym jest modlitwa?","Jak możesz wielbić Boga, kiedy przepraszasz?", "Za kogo możesz się modlić? O co prosić Pana Boga?", "O co prosimy w Modlitwie Pańskiej?", "Wymień modlitwy Maryjne.", "Jaki sakrament oczyszcza nas z grzechów?", "Jak dobrze przygotować się do Sakramentu Pokuty i Pojednania?", "Jak odróżnić grzech lekki i ciężki?", "Jak możesz pracować nad sobą i stawać się coraz lepszym?", "Jak często powinno się przystępować do Spowiedzi?", "Na czym polega praktyka pierwszych piątków miesiąca?", "Podaj przykłady zastosowania przykazań Bożych w życiu codziennym.", "Co oznacza, że niedziela jest pamiątką Zmartwychwstania? Jak możemy świętować niedzielę?", "Omów przypowieści: „O zagubionej owcy”, „O miłosiernym ojcu”, „O miłosiernym samarytaninie”.", "Czym jest Adoracja Najświętszego Sakramentu?"];
 var lektury = ["Opowieści z Narnii: Lew, czarownica i stara szafa","Opowieści z Narnii: Książę Kaspian",'Opowieści z Narnii: Podróż "Wędrowca do Świtu"'];
-var dni = ["6 maja 2024 r.","7 maja 2024 r.","9 maja 2024 r.","10 maja 2024 r.","13 maja 2024 r.","14 maja 2024 r.","15 maja 2024 r.","16 maja 2024 r.","17 maja 2024 r.","20 maja 2024 r.","21 i 23 maja 2024 r.","22 maja 2024 r.","24 maja 2024 r."];
-var informatyka = ["pół godziny w programie Blender","Co to jest akapit i interlinia w Wordzie(LibreOffice Writer)","Co to jest formatowanie tekstu? Jak wyczyścić formatowanie w tekście?","Po co stosujemy skróty klawiaturowe? Jakie znasz skróty klawiaturowe?","Do czego służy przycisk F5? Jak zamienić wszystkie wyrazy <em>nie</em> w tekście na <em>tak</em>?","Jakie znasz zasady tworzenia dokumentów?","Na czym polegają: <em> twarda spacja, miękki enter, kontrola bękartów i wdów</em>?","Co można zrobić z obrazem w programie MS Word i jak go przyciąć, zmienić rozmiar, usunąć tło, czy zmienić kolor?","Jakie znaki należą do znaków niedrukowanych?","Co to jest tabela i z czego się składa? Jak możemy ją edytować?","Jakie ustawienia możemy znaleźć we wstążce dedykowanej tabelom?","Jak wstawić tabelę i nadać jej nowy wygląd? Co to są: komórka, wiersz, kolumna? Jak dorysować dodatkowy wiersz i zmienić szerokość komórki?","zapoznanie z programem PowerPoint,<br/>zauważenie podobieństwa do HTML,CSS,JavaScript.<br/>Zasady tworzenia prezentacji.","Wyznaczenie tytułu prezentacji i wybór motywu slajdów.<br/>Tworzenie i formatowanie prezentacji","Przejścia i animacje w prezentacji","Muzyka i wideo w prezentacji to zaleta czy wada? Wstawianie dźwięku i wideo","Zapisanie prezentacji jako plik wideo"];
+var dni = ["6 maja 2024 r.","7 maja 2024 r.","9 maja 2024 r.","10 maja 2024 r.","13 maja 2024 r.","14 maja 2024 r.","15 maja 2024 r.","16 maja 2024 r.","17 maja 2024 r.","21 i 23 maja 2024 r.","22 maja 2024 r.","24 maja 2024 r.","27 maja 2024 r."];
+var informatyka = ["pół godziny w programie Blender","Co to jest akapit i interlinia w Wordzie(LibreOffice Writer)","Co to jest formatowanie tekstu? Jak wyczyścić formatowanie w tekście?","Po co stosujemy skróty klawiaturowe? Jakie znasz skróty klawiaturowe?","Do czego służy przycisk F5? Jak zamienić wszystkie wyrazy <em>nie</em> w tekście na <em>tak</em>?","Jakie znasz zasady tworzenia dokumentów?","Na czym polegają: <em> twarda spacja, miękki enter, kontrola bękartów i wdów</em>?","Co można zrobić z obrazem w programie MS Word i jak go przyciąć, zmienić rozmiar, usunąć tło, czy zmienić kolor?","Jakie znaki należą do znaków niedrukowanych?","Co to jest tabela i z czego się składa? Jak możemy ją edytować?","Jakie ustawienia możemy znaleźć we wstążce dedykowanej tabelom?","Jak wstawić tabelę i nadać jej nowy wygląd? Co to są: komórka, wiersz, kolumna? Jak dorysować dodatkowy wiersz i zmienić szerokość komórki?","zapoznanie z programem PowerPoint,<br/>zauważenie podobieństwa do HTML,CSS,JavaScript.<br/>Zasady tworzenia prezentacji.","Wyznaczenie tytułu prezentacji i wybór motywu slajdów.<br/>Tworzenie i formatowanie prezentacji","Przejścia i animacje w prezentacji","Muzyka i wideo w prezentacji to zaleta czy wada? Wstawianie dźwięku i wideo","Zapisanie prezentacji jako plik wideo","Scratch: rysowanie prostych kształtów i figur geometrycznych","Co to jest algorytm?","Jak określić położenie duszka i jak znaleźć środek sceny?","Pivot: co to jest klatka/pętla","Do czego służy format *.gif, *.avi?"];
 var slowka = ["1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 30, 50, 70, 90, 1000","2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 40, 60, 80, 100, 1000000","jabłko,pomidor,marchewka,czosnek,ogórek,<br/>ryż,chleb,gruszka,pomarańcza,jajko","banan,ziemniak,cebula,papryka,mięso,<br/>makaron,śliwka,brzoskwinia,cytryna,mleko","sok,woda,wino,obiad,truskawka,<br/>malina,warzywo,sól,ser żółty,zupa","herbata,kawa,śniadanie,kolacja,jagoda,<br/>owoc,ciasto,deser,masło,jedzenie","rodzina,matka,syn,ciocia,siostra,<br/>dziadek,mężczyzna,mąż,dziecko,dziewczynka","ojciec,córka,wujek,brat,babcia,<br/>rodzice,kobieta,żona,chłopiec,kuzyn","kurtka,pasek,szalik,but,parasol,<br/>sukienka,kapelusz,koszula,torebka,wysokie obcasy","skarpetka,okulary,rękawiczka,spodnie,koszulka,<br/>,czapka,spódnica,płaszcz,guzik,ubierać się"];
 var ortografia = ["bohater,chata,chrzan,herbata,wichura,<br/>borsuk,góra,kłótnia,mrówka,fartuch,<br/>drzewo,jarzębina,jeżyna,księżyc,rzodkiewka","krzesło,rzeka,rzepa,tchórz,żaba,<br/>spokój,również,mucha,kura,jaskółka,<br/>trochę,schody,filharmonia,machać,wahać","blacha,chcieć,hamak,chłopiec,hiena,<br/>cebula,chustka,kółko,który,ucho,<br/>brzeg,dżem,grzyb,leżeć,przygoda","żołądek,wąchać,pompa,mądry,legenda,<br/>też,tuż,jeż,już,wąż,<br/>kruk,kukułka,jaskółka,kogut,krówka"]
 
@@ -26,14 +26,12 @@ var slowkaAngUla = [slowka[8],slowka[7],slowka[6],slowka[5],slowka[4],"",slowka[
 var slowkaAngBasia = [slowka[9],slowka[6],slowka[7],slowka[4],slowka[5],"",slowka[2],slowka[3],"","",slowka[0],slowka[1],"<b>słówka Basia</b>"];
 var angielskiUla = ["Przypomnij sobie rzeczowniki policzalne i niepoliczalne","Podaj stopień wyższy i najwyższy dla: big, small, happy, easy, good","Zapoznaj się z lekcją o stopniowaniu przymiotników","Przetłumacz z konstrukcją <em>be going to</em>:<br/>Czy zamierzasz zjeść ogórka?<br/>Czy słoń zamierza szukać kwiatka?<br/>Czy zamierzamy iść wcześnie spać?<br/>Czy on sprzeda mi ołówek?","","Uzupełnij odpowiednią formą <em>be going to</em> i przetłumacz:<br/>She ... get on the train.<br/>I ... go to the church.<br/>We ... have breakfast.<br/>Parrot ... fly away from the tree.","","Przywitanie się i przedstawienie","","","","","<b>angiel Ula</b>"];
 var angielskiBasia = ["","Napisz 5 zdań ze słowem <em>can</em>, co potrafisz robić.","","Przetłumacz z konstrukcją <em>have got</em> lub <em>has got</em>:<br/>Czy dzieci mają kurtki?<br/>Czy kot ma szare uszy?<br/>Czy oni mają osiem czosnków?<br/>Czy wujek ma 30 zębów?","","Uzupełnij <em>have got</em> lub <em>has got</em> i przetłumacz:<br/>My sisters ... nice eyes.<br/>I ... nice eyes, too<br/>My Mom ... a lot of work today.<br/>The bus ... big doors","","Przywitanie się i przedstawienie","","","","","<b>angiel Basia</b>"];
-var informatykaUla = [informatyka[12],informatyka[11],informatyka[10],informatyka[0] + "<br/>" + informatyka[9],informatyka[0] + "<br/>" + informatyka[8],informatyka[0] + "<br/>" + informatyka[7],informatyka[0] + "<br/>" + informatyka[6],informatyka[0] + "<br/>" + informatyka[5],informatyka[4],informatyka[0] + ";<br/><s>" + informatyka[3]  + '</s>',informatyka[2],informatyka[1],"<b>inform Ula</b>"];
-var informatykaBasia =[informatyka[12],informatyka[11],informatyka[10],informatyka[0] + "<br/>" + informatyka[9],informatyka[0] + "<br/>" + informatyka[8],informatyka[0] + "<br/>" + informatyka[7],informatyka[0] + "<br/>" + informatyka[6],informatyka[0] + "<br/>" + informatyka[5],informatyka[4],informatyka[0] + ";<br/><s>" + informatyka[3]  + '</s>',informatyka[0] + ";<br/>" + informatyka[2],informatyka[1],"<b>inform Basia</b>"];
+var informatykaUla = ["","","","",informatyka[0] + "<br/>" + informatyka[8],informatyka[0] + "<br/>" + informatyka[7],informatyka[0] + "<br/>" + informatyka[6],informatyka[0] + "<br/>" + informatyka[5],informatyka[4],informatyka[0] + ";<br/><s>" + informatyka[3]  + '</s>',informatyka[2],informatyka[1],"<b>inform Ula</b>"];
+var informatykaBasia =["","","","",informatyka[0] + "<br/>" + informatyka[8],informatyka[0] + "<br/>" + informatyka[7],informatyka[0] + "<br/>" + informatyka[6],informatyka[0] + "<br/>" + informatyka[5],informatyka[4],informatyka[0] + ";<br/><s>" + informatyka[3]  + '</s>',informatyka[0] + ";<br/>" + informatyka[2],informatyka[1],"<b>inform Basia</b>"];
 var zagadnieniaBasia = ["","jak się ma wiersz?","","","","ćwiczenie wiersza","Wykaż znajomość ważnych dat dla naszej Ojczyzny","Wykaż znajomość godła, flagi, hymnu narodowego","Wskaż rzeczowniki, czasowniki i przymiotniki w wierszu o kotku Psotku","","ćwiczenie wiersza","Który wiersz na pamięć?","<b>zagadn Basia</b>"];
-var historiaUla = [histBookV[11],histBookV[10],histBookV[9],histBookV[8],histBookV[7],histBookV[6],histBookV[5],histBookV[4],histBookV[3],histBookV[2],histBookV[1],histBookV[0],"<b>historia Ula</b>"];
-var biologiaUla = ["","","","","","","","","","","","","<b>biologia Ula</b>"];
-var geografiaUla = ["","","","","","","","","","","","","<b>geografia Ula</b>"];
+var wiodacyUla = [histBookV[11],histBookV[10],histBookV[9],histBookV[8],histBookV[7],histBookV[6],histBookV[5],histBookV[4],histBookV[3],histBookV[2],histBookV[1],histBookV[0],"<b>historia Ula</b>"];
 
-var naglowek = [dzien[dzien.length - 1],religiaUla[religiaUla.length - 1],religiaBasia[religiaBasia.length - 1],matematykaUla[matematykaUla.length - 1],matematykaBasia[matematykaBasia.length - 1],lekturaUla[lekturaUla.length - 1],lekturaBasia[lekturaBasia.length - 1],polskiUla[polskiUla.length - 1], polskiBasia[polskiBasia.length - 1],slowkaAngUla[slowkaAngUla.length - 1],slowkaAngBasia[slowkaAngBasia.length - 1],angielskiUla[angielskiUla.length - 1],angielskiBasia[angielskiBasia.length - 1],informatykaUla[informatykaUla.length - 1],informatykaBasia[informatykaBasia.length - 1],zagadnieniaBasia[zagadnieniaBasia.length - 1],historiaUla[historiaUla.length - 1],biologiaUla[biologiaUla.length - 1],geografiaUla[geografiaUla.length - 1]];
+var naglowek = [dzien[dzien.length - 1],religiaUla[religiaUla.length - 1],religiaBasia[religiaBasia.length - 1],matematykaUla[matematykaUla.length - 1],matematykaBasia[matematykaBasia.length - 1],lekturaUla[lekturaUla.length - 1],lekturaBasia[lekturaBasia.length - 1],polskiUla[polskiUla.length - 1], polskiBasia[polskiBasia.length - 1],slowkaAngUla[slowkaAngUla.length - 1],slowkaAngBasia[slowkaAngBasia.length - 1],angielskiUla[angielskiUla.length - 1],angielskiBasia[angielskiBasia.length - 1],informatykaUla[informatykaUla.length - 1],informatykaBasia[informatykaBasia.length - 1],zagadnieniaBasia[zagadnieniaBasia.length - 1],wiodacyUla[wiodacyUla.length - 1]];
 
 var wszystkie = [];
 for (let i = 0; i < dzien.length - 1; i++)
@@ -54,9 +52,7 @@ for (let i = 0; i < dzien.length - 1; i++)
 	wszystkie.push(informatykaUla[i]);
 	wszystkie.push(informatykaBasia[i]);
 	wszystkie.push(zagadnieniaBasia[i]);
-	wszystkie.push(historiaUla[i]);
-	wszystkie.push(biologiaUla[i]);
-	wszystkie.push(geografiaUla[i]);
+	wszystkie.push(wiodacyUla[i]);
 }
 function pisz()
 {
@@ -77,7 +73,7 @@ function wyswietl()
 	$("#Ula").html('');
 	$("#Basia").html('');
 	$(".dzien").append(dzien[sygnatura]);
-	for (let i = 1; i < 19; i ++)
+	for (let i = 1; i < 17; i ++)
 	{
 		if (i < 15)
 		{
@@ -97,7 +93,7 @@ function wyswietl()
 				$("#Ula").append('<b>Angielski</b>: ');
 			if (i == 13)
 				$("#Ula").append('<b>Informatyka</b>: ');
-			$("#Ula").append(wszystkie[sygnatura * 19 + i]);
+			$("#Ula").append(wszystkie[sygnatura * 17 + i]);
 			$("#Ula").append('<br/>');
 			}
 			else
@@ -116,28 +112,24 @@ function wyswietl()
 				$("#Basia").append('<b>Angielski</b>: ');
 			if (i == 14)
 				$("#Basia").append('<b>Informatyka</b>: ');
-			$("#Basia").append(wszystkie[sygnatura * 19 + i]);
+			$("#Basia").append(wszystkie[sygnatura * 17 + i]);
 			$("#Basia").append('<br/>');
 			}
 		}
 		else if (i == 15)
 		{
-			$("#Basia").append('<b>Zagadnienie</b>: ' + wszystkie[sygnatura * 19 + i]);
+			$("#Basia").append('<b>Zagadnienie</b>: ' + wszystkie[sygnatura * 17 + i]);
 			$("#Basia").append('<br/>');
 		}
 		else
 		{
 			if (i == 16)
 				$("#Ula").append('<b>Historia</b>: ');
-			if (i == 17)
-				$("#Ula").append('<b>Biologia</b>: ');
-			if (i == 18)
-				$("#Ula").append('<b>Geografia</b>: ');
-			$("#Ula").append(wszystkie[sygnatura * 19 + i]);
+			$("#Ula").append(wszystkie[sygnatura * 17 + i]);
 			$("#Ula").append('<br/>');
 		}
 	}
 	$(".obowiazkowe").html("INSTRUMENTY<br/>busuu i FISZKI");
-	$("#obrazekUla").html('<img src="img/2a.jpg" width="70%" />');
-	$("#obrazekBasia").html('<img src="img/1a.jpg" width="70%" />');
+	$("#obrazekUla").html('<img src="img/3.jpg" width="70%" />');
+	$("#obrazekBasia").html('<img src="img/5.jpg" width="70%" />');
 }
