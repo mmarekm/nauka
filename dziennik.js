@@ -130,6 +130,6 @@ function wyswietl()
 		}
 	}
 	$(".obowiazkowe").html("INSTRUMENTY<br/>busuu i FISZKI");
-	$("#obrazekUla").html('<img src="img/3.jpg" width="70%" />');
-	$("#obrazekBasia").html('<img src="img/5.jpg" width="70%" />');
+	$("#obrazekUla").html('<img src="img/6.jpg" width="70%" />');
+	$("#obrazekBasia").html('<img src="img/4.jpg" width="70%" />');
 }
