@@ -2,6 +2,11 @@ body
 {
 	font-size: 11px;
 }
+#ekstra
+{
+	text-align: center;
+	font-size: 50px;
+}
 .ramka
 {
 	width: 5%;
