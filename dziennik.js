@@ -134,4 +134,5 @@ function wyswietl()
 	$("#obrazekUla").html('<img src="img/6.jpg" width="70%" />');
 	$("#obrazekBasia").html('<img src="img/4.jpg" width="70%" />');
 	//$("#ekstra").html('<span style="color: blue;">I</span><span style="color: lime;">M</span><span style="color: red;">I</span><span style="color: yellow;">E</span><span style="color: tan;">N</span><span style="color: brown;">I</span><span style="color: forestgreen;">N</span><span style="color: cyan;">Y</span><br/><span style="color: gold;">U</span><span style="color: maroon;">L</span><span style="color: indigo;">I</span>');
+	$("#ekstra").html('PRZERWA');
 }
