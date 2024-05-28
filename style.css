@@ -5,10 +5,10 @@ body
 #ekstra
 {
 	text-align: center;
-	font-size: 250px;
+	font-size: 18vw;
 	position: fixed;
-	left: 10%;
-	top: 20%;
+	left: 5%;
+	top: 10%;
 	font-weight: 700;
 	color: red;
 }
